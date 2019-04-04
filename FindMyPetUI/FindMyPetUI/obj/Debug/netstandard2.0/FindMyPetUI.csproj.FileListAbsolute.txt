@@ -1,0 +1,16 @@
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\bin\Debug\netstandard2.0\FindMyPetUI.deps.json
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\bin\Debug\netstandard2.0\FindMyPetUI.dll
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\bin\Debug\netstandard2.0\FindMyPetUI.pdb
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\obj\Debug\netstandard2.0\FindMyPetUI.csprojAssemblyReference.cache
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\obj\Debug\netstandard2.0\FindMyPetUI.csproj.CoreCompileInputs.cache
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\obj\Debug\netstandard2.0\FindMyPetUI.AssemblyInfoInputs.cache
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\obj\Debug\netstandard2.0\FindMyPetUI.AssemblyInfo.cs
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\obj\Debug\netstandard2.0\FindMyPetUI.dll
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\obj\Debug\netstandard2.0\FindMyPetUI.pdb
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\obj\Debug\netstandard2.0\Views\DogDetailPage.xaml.g.cs
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\obj\Debug\netstandard2.0\Views\NewDogPage.xaml.g.cs
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI\obj\Debug\netstandard2.0\Views\DogsOverviewPage.xaml.g.cs

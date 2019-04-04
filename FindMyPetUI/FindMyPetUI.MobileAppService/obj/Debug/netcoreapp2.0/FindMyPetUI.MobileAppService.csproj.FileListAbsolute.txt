@@ -1,0 +1,11 @@
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI.MobileAppService\bin\Debug\netcoreapp2.0\FindMyPetUI.MobileAppService.deps.json
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI.MobileAppService\bin\Debug\netcoreapp2.0\FindMyPetUI.MobileAppService.runtimeconfig.json
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI.MobileAppService\bin\Debug\netcoreapp2.0\FindMyPetUI.MobileAppService.runtimeconfig.dev.json
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI.MobileAppService\bin\Debug\netcoreapp2.0\FindMyPetUI.MobileAppService.dll
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI.MobileAppService\bin\Debug\netcoreapp2.0\FindMyPetUI.MobileAppService.pdb
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI.MobileAppService\obj\Debug\netcoreapp2.0\FindMyPetUI.MobileAppService.csprojAssemblyReference.cache
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI.MobileAppService\obj\Debug\netcoreapp2.0\FindMyPetUI.MobileAppService.csproj.CoreCompileInputs.cache
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI.MobileAppService\obj\Debug\netcoreapp2.0\FindMyPetUI.MobileAppService.AssemblyInfoInputs.cache
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI.MobileAppService\obj\Debug\netcoreapp2.0\FindMyPetUI.MobileAppService.AssemblyInfo.cs
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI.MobileAppService\obj\Debug\netcoreapp2.0\FindMyPetUI.MobileAppService.dll
+C:\Users\Gorat\source\repos\FindMyPetUI\FindMyPetUI\FindMyPetUI.MobileAppService\obj\Debug\netcoreapp2.0\FindMyPetUI.MobileAppService.pdb
